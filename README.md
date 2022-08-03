@@ -1,1 +1,1 @@
-# Lekhniv to generate blog ideas.
+# AIW to generate blog ideas.
